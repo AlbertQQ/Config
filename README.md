@@ -1,4 +1,4 @@
 Config
 ======
 
-My Emacs config
+My vim config
