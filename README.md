@@ -1,4 +1,7 @@
 Config
 ======
 
-My vim config
+My Emacs config file
+and 
+emacs plugin
+and so forth
