@@ -1,7 +1,5 @@
 Config
 ======
 
-My Emacs config file
-and 
-emacs plugin
+My Vim config file, plugins
 and so forth
